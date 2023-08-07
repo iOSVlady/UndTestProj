@@ -1,6 +1,7 @@
 # UndTestProj
 
 MyFriends Test Application
+
 https://github.com/iOSVlady/UndTestProj/assets/46273878/2e40f259-45a4-46ef-9d62-60336f39130c
 
 Screen 1 - List of users(friends)
